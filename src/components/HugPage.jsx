@@ -104,12 +104,12 @@ export default function HugPage({ setCurrentPage }) {
           transition={{ duration: 0.8, delay: 1.1 }}
           className="text-xl text-purple-200 leading-relaxed"
         >
-          Just your arms around me, that’s all I want.💕
+          inse zada cute images nahi mile😅.💕
         </motion.p>
       </motion.div>
 
       <motion.button
-        onClick={sendHug}
+        onClick={kar-diya-maaf}
         className="mt-12 px-10 py-4 bg-gradient-to-r from-pink-500/30 to-red-500/30 backdrop-blur-sm border border-pink-300/40 rounded-full text-pink-200 text-xl hover:from-pink-500/40 hover:to-red-500/40 transition-all duration-500 shadow-xl shadow-pink-500/30 flex gap-4 relative overflow-hidden"
         whileHover={{
           scale: 1.02,
